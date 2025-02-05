@@ -34,9 +34,9 @@ A simple, console-based Photo Management System written in C++.  This project de
 ### User Credentials (`users.txt`)
 
 The `users.txt` file should contain usernames and passwords, one pair per line, separated by a space.  For example:
-user1 password1
-user2 password2
-(Storing passwords in plain text is highly insecure.  This is for demonstration purposes only.)
+*    user1 password1
+*    user2 password2
+*    (Storing passwords in plain text is highly insecure.  This is for demonstration purposes only.)
 
 
 ### Future Improvements
