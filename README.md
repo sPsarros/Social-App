@@ -22,13 +22,13 @@ A simple, console-based Photo Management System written in C++.  This project de
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/photo-management.git](https://github.com/yourusername/photo-management.git)
-    cd photo-management
+    git clone https://github.com/sPsarros/Social-App.git
+    cd Social-App
     ```
 
 2.  Compile the program:
     ```bash
-    g++ main.cpp -o photo_management
+    g++ main.cpp -o Social-App
     ```
 
 ### User Credentials (`users.txt`)
@@ -40,5 +40,5 @@ The `users.txt` file should contain usernames and passwords, one pair per line, 
 
 
 ### Future Improvements
-*  User Registration: Implement a registration feature.
+*  User Registration
 *  Security Enhancements
